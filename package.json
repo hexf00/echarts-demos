@@ -1,0 +1,18 @@
+{
+  "name": "echarts-ts",
+  "version": "1.0.0",
+  "description": "echarts@4.9 + typescript",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/echarts": "4.9.0",
+    "@types/lodash": "4.14.165",
+    "dayjs": "1.9.7",
+    "echarts": "4.9.0",
+    "lodash": "4.17.20"
+  },
+  "keywords": []
+}
